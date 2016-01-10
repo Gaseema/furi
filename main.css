@@ -1,0 +1,268 @@
+*{margin: 0}
+.navigation-bar {
+    background-color: white;
+}
+nav a {
+    float: right;
+    margin-right: 80px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+}
+.home{
+    background-image: url(./images/hero_img.jpg);
+}
+.home p{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    padding-bottom: 30px
+}
+.home p:first-child{
+    padding-top: 130px;
+    padding-bottom: 40px;
+    font-size: 30px;
+} 
+.home p .small{
+    font-size: 30px;
+    padding-top: 10px;
+}
+.home p .blue{
+    color: aqua;
+    text-transform: uppercase;
+}
+.home .button{
+    padding-left: 30%;
+    padding-bottom: 30px;
+}
+.home button{
+    color: white;
+    background-color: transparent;
+    height: 90px;
+    width: 300px;
+    padding-left: 20px;
+}
+.home #blue{
+    background-color: blue;
+}
+.about h1{
+    text-align: center;
+    margin-top: 80px;
+}
+.about p{
+    text-align: center;
+    color: #777;
+    padding-top: 40px;
+}
+.img-container{
+    display: inline-block;
+    padding-left: 50px;
+    padding-top: 70px;
+    max-width: 250px;
+}
+.img-container img{
+    padding-left: 70px;
+}
+.img-container h4{
+    text-align: center;
+}
+.img-container p{
+    padding-bottom: 20px;
+}
+.img-container .plus{
+    padding-left: 100px;
+    padding-bottom: 60px;
+}
+.services {
+    background-image: url(images/what_we_do_bg.jpg)
+}
+.services h1{
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+.services p{
+    color: #777;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.services h4{
+    color: white;
+    text-align: center;
+}
+.serv-container{
+    display: inline-block;
+    padding-left: 130px;
+    padding-top: 70px;
+    max-width: 250px;
+}
+.serv-container img{
+    padding-left: 70px;
+}
+.services1{
+    background-image: url(images/we_are_making_products.jpg);
+}
+.services1 button{
+    color: white;
+    background-color: darkgray;
+    height:60;
+    width: 200;
+}
+.services1 .button1{
+    padding-left: 10%;
+    padding-bottom: 40px;
+}
+.services1 h1{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 10%;
+    font-size: 3.5em;
+}
+.services1 p{
+    padding-left: 10%;
+    padding-bottom: 80px;
+    padding-top: 40px;
+}
+.portfolio{
+    margin-left: 1%;
+}
+
+.portfolio h1{
+    text-align: center;
+    padding-top: 80px;
+}
+.portfolio p{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #777;
+}
+.portfolio .port{
+    padding-top: 20px;
+    padding-bottom: 70px
+}
+.portfolio1{
+    background-image: url(images/bg_quote.jpg)
+}
+.portfolio1 h1{
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    font-size: 4em;
+}
+.portfolio1 p{
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.portfolio1 .blue{
+    color: aqua;
+}
+.team{
+    background-color: #F2F2F2;
+}
+.team h1{
+    text-align: center;
+    padding-top: 80px;
+}
+.team-pic{
+    display: inline-block;
+    padding-left: 50px;
+    padding-top: 70px;
+    max-width: 250px;
+    padding-bottom: 50px;
+}
+.team-pic h4{
+    text-align: center;
+    background-color: white;
+}
+.team-pic p{
+    text-align: center;
+    background-color: white;
+}
+.contact h1{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+.contact p{
+    text-align: center;
+    color: #777;
+    margin-bottom: 30px;
+}
+form{
+    margin-left: 15%;
+}
+.box{
+    height: 50px;
+    background-color: aqua;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px;
+}
+.box1{
+    height: 100px;
+    background-color: skyblue;
+    border-radius: 10px;
+    border: none;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+button{
+    width: 980px;
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    color: white;
+    font-size: 2em;
+    margin-bottom: 35px;
+}
+.contact2{
+    background-image:url(images/contactUs.jpg);
+}
+.contact2 .address{
+    float:left;
+}
+.contact2 .phone{
+    float: left;
+}
+.contact .mail{
+    float:left;
+}
+.contact2 img{
+    height: 50px;
+    padding-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contact2 h5{
+    color: white;
+}
+.footer{
+    padding-left: 60px;
+    background-color: dimgrey;
+}
+.footer img{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer .social-network{
+    margin-left: 800px;
+    height: 20px;
+}
+.footer .small{
+    height:20px;
+}
+.copyright{
+    background-color: darkslategrey;
+}
+.copyright p{
+    text-align: center;
+    padding-bottom:5px;
+    padding-top: 5px;
+}
