@@ -1,2 +1,2 @@
 # furi
-Check it out at furi.bitballoon.com
+Check it out at <https://furi.bitballoon.com>
