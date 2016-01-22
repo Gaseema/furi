@@ -44,10 +44,10 @@ nav a {
 }
 .home #blue{
     background-color: blue;
-}/*
+}
 .about h1{
     text-align: center;
-    margin-top: 80px;
+ /*   margin-top: 80px;
 }
 .about p{
     text-align: center;
