@@ -34,11 +34,11 @@ nav a {
 .home .button{
     padding-left: 30%;
     padding-bottom: 30px;
-}/*
+}
 .home button{
     color: white;
     background-color: transparent;
-    height: 90px;
+ /*   height: 90px;
     width: 300px;
     padding-left: 20px;
 }
