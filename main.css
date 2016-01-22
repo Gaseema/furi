@@ -26,10 +26,10 @@ nav a {
 .home p .small{
     font-size: 30px;
     padding-top: 10px;
-}/*
+}
 .home p .blue{
     color: aqua;
-    text-transform: uppercase;
+ /*   text-transform: uppercase;
 }
 .home .button{
     padding-left: 30%;
